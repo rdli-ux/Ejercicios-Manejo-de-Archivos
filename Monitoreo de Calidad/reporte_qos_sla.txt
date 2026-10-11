@@ -1,0 +1,62 @@
+=== REPORTE DE CALIDAD DE SERVICIO (QoS) Y SLA ===
+
+ROUTER: RTR-BOG-01
+  - Latencia Promedio: 27.59 ms
+  - Pérdida de Paquetes: 1.00%
+  - Inactividad (DOWN): 0.00%
+  - ESTADO: [OK] Cumple SLA.
+---------------------------------------------
+ROUTER: RTR-MEX-03
+  - Latencia Promedio: 27.19 ms
+  - Pérdida de Paquetes: 0.99%
+  - Inactividad (DOWN): 0.00%
+  - ESTADO: [OK] Cumple SLA.
+---------------------------------------------
+ROUTER: RTR-ARG-02
+  - Latencia Promedio: 27.53 ms
+  - Pérdida de Paquetes: 1.00%
+  - Inactividad (DOWN): 0.00%
+  - ESTADO: [OK] Cumple SLA.
+---------------------------------------------
+ROUTER: RTR-MEX-02
+  - Latencia Promedio: 27.53 ms
+  - Pérdida de Paquetes: 1.00%
+  - Inactividad (DOWN): 0.00%
+  - ESTADO: [OK] Cumple SLA.
+---------------------------------------------
+ROUTER: RTR-MEX-04
+  - Latencia Promedio: 27.63 ms
+  - Pérdida de Paquetes: 1.00%
+  - Inactividad (DOWN): 0.00%
+  - ESTADO: [OK] Cumple SLA.
+---------------------------------------------
+ROUTER: RTR-BOG-03
+  - Latencia Promedio: 27.20 ms
+  - Pérdida de Paquetes: 1.00%
+  - Inactividad (DOWN): 0.00%
+  - ESTADO: [OK] Cumple SLA.
+---------------------------------------------
+ROUTER: RTR-ARG-03
+  - Latencia Promedio: 27.45 ms
+  - Pérdida de Paquetes: 1.00%
+  - Inactividad (DOWN): 0.00%
+  - ESTADO: [OK] Cumple SLA.
+---------------------------------------------
+ROUTER: RTR-MEX-01
+  - Latencia Promedio: 27.56 ms
+  - Pérdida de Paquetes: 1.02%
+  - Inactividad (DOWN): 0.00%
+  - ESTADO: [OK] Cumple SLA.
+---------------------------------------------
+ROUTER: RTR-BOG-02
+  - Latencia Promedio: 265.30 ms
+  - Pérdida de Paquetes: 1.51%
+  - Inactividad (DOWN): 0.00%
+  - ESTADO: [ALERTA] Violación de SLA detectada.
+---------------------------------------------
+ROUTER: RTR-ARG-01
+  - Latencia Promedio: 39.71 ms
+  - Pérdida de Paquetes: 19.05%
+  - Inactividad (DOWN): 44.83%
+  - ESTADO: [ALERTA] Violación de SLA detectada.
+---------------------------------------------
